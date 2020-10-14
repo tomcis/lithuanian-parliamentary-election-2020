@@ -1,0 +1,4 @@
+chromedriver-binary==v85.0.4183.87.0 # IMPORTANT to set the right version
+selenium
+bs4
+lxml
